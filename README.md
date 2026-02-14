@@ -57,9 +57,9 @@
 
 ## 📊 GitHub Stats
 
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadUzairZafar&show_icons=true&theme=tokyonight)
+![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairCodeDeveloper&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadUzairZafar&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=UzairCodeDeveloper&theme=tokyonight)
 
 ---
 
