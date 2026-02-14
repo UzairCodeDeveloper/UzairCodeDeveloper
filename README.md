@@ -20,7 +20,10 @@ Passionate Computer Science graduate focused on building scalable web applicatio
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- JavaScript  
+- ReactJS
+- ScikitLearn
+- Numpy
+- Panda  
 - Python  
 - C++  
 
