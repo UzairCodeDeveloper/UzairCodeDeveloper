@@ -8,6 +8,7 @@ Passionate Computer Science graduate and Doing MS in Data Science focused on bui
 
 ## 🚀 About Me
 
+- 🎓 MS Data Science (ITALY, Naples)
 - 🎓 BS Computer Science  
 - 💼 MERN Stack Developer (Remote)  
 - 🤖 Machine Learning & AI Enthusiast  
