@@ -2,7 +2,7 @@
 
 💻 **MERN Stack Developer | Machine Learning Enthusiast | Problem Solver**
 
-Passionate Computer Science graduate focused on building scalable web applications and intelligent systems. I enjoy transforming ideas into real-world digital solutions.
+Passionate Computer Science graduate and Doing MS in Data Science focused on building scalable web applications and intelligent systems. I enjoy transforming ideas into real-world digital solutions.
 
 ---
 
